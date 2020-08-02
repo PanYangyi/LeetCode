@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/20200731_魔术索引/20200731_魔术索引.iml" filepath="$PROJECT_DIR$/20200731_魔术索引/20200731_魔术索引.iml" />
       <module fileurl="file://$PROJECT_DIR$/20200801_用两个栈实现对列/20200801_用两个栈实现对列.iml" filepath="$PROJECT_DIR$/20200801_用两个栈实现对列/20200801_用两个栈实现对列.iml" />
       <module fileurl="file://$PROJECT_DIR$/20200802_化栈为队/20200802_化栈为队.iml" filepath="$PROJECT_DIR$/20200802_化栈为队/20200802_化栈为队.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200802_用队列实现栈/20200802_用队列实现栈.iml" filepath="$PROJECT_DIR$/20200802_用队列实现栈/20200802_用队列实现栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodeRepository.iml" filepath="$PROJECT_DIR$/.idea/LeetCodeRepository.iml" />
     </modules>
   </component>
